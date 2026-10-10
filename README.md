@@ -44,7 +44,7 @@ Paste a question link, then mark what to do next: **solve**, **solve again** or 
 
 ---
 
-## 📑 Contents
+##  Contents
 
 1. [Use online (no install)](#1--use-online-no-install)
 2. [Install on Android](#2--install-on-android)
@@ -58,7 +58,7 @@ Paste a question link, then mark what to do next: **solve**, **solve again** or 
 
 ---
 
-## 1. 🌐 Use online (no install)
+## 1.  Use online (no install)
 
 Just open the link in any modern browser (Chrome, Edge, Safari, Firefox):
 
